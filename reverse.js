@@ -1,3 +1,3 @@
-const skill = 'i am learning web development';
+const skill  ='i am learning web development';
 
 console.log(skill);
